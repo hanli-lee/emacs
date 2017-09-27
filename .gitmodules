@@ -1,3 +1,252 @@
 [submodule "packages/magit"]
 	path = packages/magit
 	url = https://github.com/magit/magit.git
+[submodule "packages/back-button"]
+	path = packages/back-button
+	url = https://github.com/rolandwalker/back-button.git
+[submodule "packages/diff-hl"]
+	path = packages/diff-hl
+	url = https://github.com/dgutov/diff-hl.git
+[submodule "packages/ido-ubiquitous"]
+	path = packages/ido-ubiquitous
+	url = https://github.com/DarwinAwardWinner/ido-ubiquitous.git
+[submodule "packages/emacs-anzu"]
+	path = packages/emacs-anzu
+	url = https://github.com/syohex/emacs-anzu.git
+[submodule "packages/multiple-cursors"]
+	path = packages/multiple-cursors
+	url = https://github.com/magnars/multiple-cursors.el.git
+[submodule "packages/tintin-mode"]
+	path = packages/tintin-mode
+	url = https://github.com/sunwayforever/tintin-mode.git
+[submodule "packages/visual-regexp"]
+	path = packages/visual-regexp
+	url = https://github.com/benma/visual-regexp.el.git
+[submodule "packages/flx"]
+	path = packages/flx
+	url = https://github.com/lewang/flx.git
+[submodule "packages/arduino-mode"]
+	path = packages/arduino-mode
+	url = https://github.com/bookest/arduino-mode.git
+[submodule "packages/expand-region"]
+	path = packages/expand-region
+	url = https://github.com/magnars/expand-region.el.git
+[submodule "packages/simple-httpd"]
+	path = packages/simple-httpd
+	url = https://github.com/skeeto/emacs-web-server.git
+[submodule "packages/wgrep"]
+	path = packages/wgrep
+	url = https://github.com/mhayashi1120/Emacs-wgrep.git
+[submodule "packages/names"]
+	path = packages/names
+	url = https://github.com/Bruce-Connor/names.git
+[submodule "packages/dash"]
+	path = packages/dash
+	url = https://github.com/magnars/dash.el.git
+[submodule "packages/auto-complete"]
+	path = packages/auto-complete
+	url = https://github.com/auto-complete/auto-complete.git
+[submodule "packages/fuzzy"]
+	path = packages/fuzzy
+	url = https://github.com/auto-complete/fuzzy-el.git
+[submodule "packages/popup"]
+	path = packages/popup
+	url = https://github.com/auto-complete/popup-el.git
+[submodule "packages/avy"]
+	path = packages/avy
+	url = https://github.com/abo-abo/avy.git
+[submodule "packages/markdown-mode"]
+	path = packages/markdown-mode
+	url = https://github.com/jrblevin/markdown-mode.git
+[submodule "packages/skewer-mode"]
+	path = packages/skewer-mode
+	url = https://github.com/skeeto/skewer-mode.git
+[submodule "packages/js2-mode"]
+	path = packages/js2-mode
+	url = https://github.com/mooz/js2-mode.git
+[submodule "packages/seq"]
+	path = packages/seq
+	url = https://github.com/NicolasPetton/seq.el.git
+[submodule "packages/ht.el"]
+	path = packages/ht.el
+	url = https://github.com/Wilfred/ht.el.git
+[submodule "packages/cal-china-x"]
+	path = packages/cal-china-x
+	url = https://github.com/xwl/cal-china-x.git
+[submodule "packages/org-mode"]
+	path = packages/org-mode
+	url = git://orgmode.org/org-mode.git
+[submodule "packages/racket-mode"]
+	path = packages/racket-mode
+	url = https://github.com/greghendershott/racket-mode.git
+[submodule "packages/dired-hacks"]
+	path = packages/dired-hacks
+	url = https://github.com/Fuco1/dired-hacks.git
+[submodule "packages/deft"]
+	path = packages/deft
+	url = https://github.com/jrblevin/deft.git
+[submodule "packages/dtrt-indent"]
+	path = packages/dtrt-indent
+	url = https://github.com/jscheid/dtrt-indent.git
+[submodule "packages/eopengrok"]
+	path = packages/eopengrok
+	url = https://github.com/youngker/eopengrok.el.git
+[submodule "packages/region-state.el"]
+	path = packages/region-state.el
+	url = https://github.com/xuchunyang/region-state.el.git
+[submodule "packages/with-editor"]
+	path = packages/with-editor
+	url = https://github.com/magit/with-editor.git
+[submodule "packages/alert"]
+	path = packages/alert
+	url = https://github.com/jwiegley/alert.git
+[submodule "packages/emacs-async"]
+	path = packages/emacs-async
+	url = https://github.com/jwiegley/emacs-async.git
+[submodule "packages/mu"]
+	path = packages/mu
+	url = https://github.com/djcb/mu.git
+[submodule "theme/solarized"]
+	path = theme/solarized
+	url = https://github.com/bbatsov/solarized-emacs.git
+[submodule "theme/zenburn"]
+	path = theme/zenburn
+	url = https://github.com/bbatsov/zenburn-emacs.git
+[submodule "theme/dracula-theme"]
+	path = theme/dracula-theme
+	url = https://github.com/dracula/dracula-theme.git
+[submodule "packages/org-tree-slide"]
+	path = packages/org-tree-slide
+	url = https://github.com/takaxp/org-tree-slide.git
+[submodule "packages/ido-vertical-mode.el"]
+	path = packages/ido-vertical-mode.el
+	url = https://github.com/creichert/ido-vertical-mode.el.git
+[submodule "packages/smartparens"]
+	path = packages/smartparens
+	url = https://github.com/Fuco1/smartparens.git
+[submodule "packages/org-bullets"]
+	path = packages/org-bullets
+	url = https://github.com/sabof/org-bullets.git
+[submodule "packages/dumb-jump"]
+	path = packages/dumb-jump
+	url = https://github.com/jacktasia/dumb-jump.git
+[submodule "packages/s.el"]
+	path = packages/s.el
+	url = https://github.com/magnars/s.el.git
+[submodule "packages/pangu-spacing"]
+	path = packages/pangu-spacing
+	url = https://github.com/coldnew/pangu-spacing.git
+[submodule "packages/smex"]
+	path = packages/smex
+	url = https://github.com/nonsequitur/smex.git
+[submodule "packages/yasnippet"]
+	path = packages/yasnippet
+	url = https://github.com/joaotavora/yasnippet.git
+[submodule "packages/use-package"]
+	path = packages/use-package
+	url = https://github.com/jwiegley/use-package.git
+[submodule "packages/f.el"]
+	path = packages/f.el
+	url = https://github.com/rejeep/f.el.git
+[submodule "packages/vimish-fold"]
+	path = packages/vimish-fold
+	url = https://github.com/mrkkrp/vimish-fold.git
+[submodule "packages/sphinx-doc.el"]
+	path = packages/sphinx-doc.el
+	url = https://github.com/naiquevin/sphinx-doc.el.git
+[submodule "packages/golden-ratio.el"]
+	path = packages/golden-ratio.el
+	url = https://github.com/roman/golden-ratio.el.git
+[submodule "packages/indent-guide"]
+	path = packages/indent-guide
+	url = https://github.com/zk-phi/indent-guide.git
+[submodule "packages/paren-face"]
+	path = packages/paren-face
+	url = https://github.com/tarsius/paren-face.git
+[submodule "packages/emacs-python-environment"]
+	path = packages/emacs-python-environment
+	url = https://github.com/tkf/emacs-python-environment.git
+[submodule "packages/emacs-jedi"]
+	path = packages/emacs-jedi
+	url = https://github.com/tkf/emacs-jedi.git
+[submodule "packages/emacs-epc"]
+	path = packages/emacs-epc
+	url = https://github.com/kiwanami/emacs-epc.git
+[submodule "packages/emacs-deferred"]
+	path = packages/emacs-deferred
+	url = https://github.com/kiwanami/emacs-deferred.git
+[submodule "packages/emacs-ctable"]
+	path = packages/emacs-ctable
+	url = https://github.com/kiwanami/emacs-ctable.git
+[submodule "packages/emacs-git-gutter"]
+	path = packages/emacs-git-gutter
+	url = https://github.com/syohex/emacs-git-gutter.git
+[submodule "packages/aggressive-indent-mode"]
+	path = packages/aggressive-indent-mode
+	url = https://github.com/Malabarba/aggressive-indent-mode.git
+[submodule "packages/beacon"]
+	path = packages/beacon
+	url = https://github.com/Malabarba/beacon.git
+[submodule "packages/electric-operator"]
+	path = packages/electric-operator
+	url = https://github.com/davidshepherd7/electric-operator.git
+[submodule "packages/emacs-request"]
+	path = packages/emacs-request
+	url = https://github.com/tkf/emacs-request.git
+[submodule "packages/emacs-websocket"]
+	path = packages/emacs-websocket
+	url = https://github.com/ahyatt/emacs-websocket.git
+[submodule "packages/emacs-emojify"]
+	path = packages/emacs-emojify
+	url = https://github.com/iqbalansari/emacs-emojify.git
+[submodule "packages/impatient-mode"]
+	path = packages/impatient-mode
+	url = https://github.com/skeeto/impatient-mode.git
+[submodule "packages/web-mode"]
+	path = packages/web-mode
+	url = https://github.com/fxbois/web-mode.git
+[submodule "packages/emmet-mode"]
+	path = packages/emmet-mode
+	url = https://github.com/smihica/emmet-mode.git
+[submodule "packages/web-beautify"]
+	path = packages/web-beautify
+	url = https://github.com/yasuyk/web-beautify.git
+[submodule "packages/js-comint"]
+	path = packages/js-comint
+	url = https://github.com/redguardtoo/js-comint.git
+[submodule "packages/restclient.el"]
+	path = packages/restclient.el
+	url = https://github.com/pashky/restclient.el.git
+[submodule "packages/rust-mode"]
+	path = packages/rust-mode
+	url = https://github.com/rust-lang/rust-mode.git
+[submodule "packages/emacs-calfw"]
+	path = packages/emacs-calfw
+	url = https://github.com/kiwanami/emacs-calfw.git
+[submodule "packages/emacs-racer"]
+	path = packages/emacs-racer
+	url = https://github.com/racer-rust/emacs-racer.git
+[submodule "packages/company-mode"]
+	path = packages/company-mode
+	url = https://github.com/company-mode/company-mode.git
+[submodule "packages/plantuml-mode"]
+	path = packages/plantuml-mode
+	url = https://github.com/skuro/plantuml-mode.git
+[submodule "packages/iedit"]
+	path = packages/iedit
+	url = https://github.com/victorhge/iedit.git
+[submodule "packages/emacs-quickrun"]
+	path = packages/emacs-quickrun
+	url = https://github.com/syohex/emacs-quickrun.git
+[submodule "packages/flycheck"]
+	path = packages/flycheck
+	url = https://github.com/flycheck/flycheck.git
+[submodule "packages/zeal-at-point"]
+	path = packages/zeal-at-point
+	url = https://github.com/jinzhu/zeal-at-point.git
+[submodule "packages/idle-highlight-mode"]
+	path = packages/idle-highlight-mode
+	url = https://github.com/zhangsan-torvalds/idle-highlight-mode.git
+[submodule "packages/edit-at-point.el"]
+	path = packages/edit-at-point.el
+	url = https://github.com/zhangsan-torvalds/edit-at-point.el.git
