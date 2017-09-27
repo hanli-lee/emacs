@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: mid
+# key: mid
+# group : definitions
+# --
+${1:m} = int((${2:f} + ${3:t}) / 2)

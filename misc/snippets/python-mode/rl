@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: rl
+# key: rl
+# group : definitions
+# --
+for ${1:i} in range(len(${2:x})):
+    $0

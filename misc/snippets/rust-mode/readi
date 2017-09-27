@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: readi
+# key: read
+# --
+let mut ${1:n} = String::new();
+io::stdin().read_line(&mut $1);
+let $1:i32 = $1.trim().parse().unwrap();

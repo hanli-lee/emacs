@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: act
+# key: act
+# binding: direct-keybinding
+# --
+#action {${1:ACTION}} {
+        $0
+};

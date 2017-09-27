@@ -1,0 +1,5 @@
+(setenv "HOME" "D:/home")
+
+(setq default-directory "~/")
+(setq sw/user-init-d "~/Dropbox/emacs/")
+(load-file "d:/Dropbox/emacs/.emacs")

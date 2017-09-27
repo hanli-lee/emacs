@@ -1,0 +1,18 @@
+(add-to-list 'load-path "~/.elisp/simple-httpd")
+(require 'simple-httpd)
+;; (setq httpd-root "/var/www")
+;; (defservlet hello text/plain (path)
+;;   (insert "time:" (current-time-string)))
+;; (httpd-start)
+
+(add-to-list 'load-path "~/.elisp/js2-mode/")
+(require 'js2-mode)
+(add-to-list 'auto-mode-alist '(".js$" . js2-mode))
+
+(add-to-list 'load-path "~/.elisp/skewer-mode/")
+(require 'skewer-mode)
+(require 'skewer-html)
+(require 'skewer-css)
+(add-hook 'js2-mode-hook 'skewer-mode)
+(add-hook 'css-mode-hook 'skewer-css-mode)
+(add-hook 'html-mode-hook 'skewer-html-mode)

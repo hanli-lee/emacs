@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: readl
+# key: read
+# --
+let mut ${1:line} = String::new();
+io::stdin().read_line(&mut $1);
+let $1 = $1.trim();

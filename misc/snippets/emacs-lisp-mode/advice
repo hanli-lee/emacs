@@ -1,0 +1,5 @@
+#name : advice
+# --
+(defadvice ${1:advice} (after $1-advice activate)
+  ($0)
+  )

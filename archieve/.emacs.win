@@ -1,0 +1,4 @@
+(setenv "HOME" "D:/home")
+
+(setq default-directory "~/")
+(load-file "d:/home/.elisp/.emacs")

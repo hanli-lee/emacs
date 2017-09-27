@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: tk
+# key: tk
+# binding: direct-keybinding
+# --
+#ticker {${1:TICKER}} {
+        $0
+} {${2:TIME}};

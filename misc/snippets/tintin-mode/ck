@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: ck
+# key: ck
+# binding: direct-keybinding
+# --
+#class ${1:CLASS} kill;

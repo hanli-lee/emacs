@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: iter
+# key: iter
+# --
+
+impl Iterator for ${1:Struct} {
+    type Item = ${2:T};
+    
+    fn next (&mut self) -> Option<$2> {
+       $0
+    }
+}

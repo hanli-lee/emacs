@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: match
+# key: match
+# --
+match ${1:switch} {
+      ${2:case} => ${3:value},
+      None => 0,
+};
+

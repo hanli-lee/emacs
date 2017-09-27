@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: ali
+# key: ali
+# binding: direct-keybinding
+# --
+#alias {${1:ALIAS}} {
+       $0
+};
