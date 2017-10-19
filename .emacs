@@ -20,7 +20,20 @@
  (directory-files (concat sw/user-init-d "config/") t "config-"))
 
 (autoload 'edit-at-point "edit-at-point" "edit at point" t)
+(autoload 'zeal-at-point "zeal-at-point" "zeal at point" t)
 (autoload 'idle-highlight-mode "idle-highlight-mode" "highlight the word the point is on" t)
 (add-hook 'find-file-hook 'idle-highlight-mode)
 ;;(set-frame-font "-DAMA-Ubuntu-light-normal-normal-*-18-*-*-*-*-0-iso10646-1")
-(set-frame-font "-DAMA-Ubuntu Mono-normal-normal-normal-*-18-*-*-*-m-0-iso10646-1")
+(set-frame-font "-DAMA-Ubuntu Mono-normal-normal-normal-*-20-*-*-*-m-0-iso10646-1")
+
+(require 'eopengrok)
+
+(define-key global-map (kbd "C-c s i") 'eopengrok-create-index)
+(define-key global-map (kbd "C-c s I") 'eopengrok-create-index-with-enable-projects)
+(define-key global-map (kbd "C-c s d") 'eopengrok-find-definition)
+(define-key global-map (kbd "C-c s f") 'eopengrok-find-file)
+(define-key global-map (kbd "C-c s s") 'eopengrok-find-reference)
+(define-key global-map (kbd "M-/") 'eopengrok-find-text)
+(define-key global-map (kbd "C-c s h") 'eopengrok-find-history)
+(define-key global-map (kbd "C-c s c") 'eopengrok-find-custom)
+(define-key global-map (kbd "C-c s b") 'eopengrok-resume)
