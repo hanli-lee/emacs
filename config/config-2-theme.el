@@ -28,10 +28,10 @@
   ;; (set-frame-font "Monaco-11" nil t)
   ;;  (set-frame-font "Consolas-11" nil t)
   ;; (dolist (charset '(kana han symbol cjk-misc bopomofo))
-      (set-frame-font "-DAMA-Ubuntu Mono-normal-normal-normal-*-18-*-*-*-m-0-iso10646-1"))
-;;  (dolist (charset '(kana han cjk-misc bopomofo))
-;;    (set-fontset-font t charset (font-spec :family "Microsoft Yahei"
-;;                                           :size 18))))
+  ;;    (set-frame-font "-DAMA-Ubuntu Mono-normal-normal-normal-*-18-*-*-*-m-0-iso10646-1"))
+  (dolist (charset '(kana han cjk-misc bopomofo))
+    (set-fontset-font t charset (font-spec :family "Microsoft Yahei"
+                                           :size 18))))
 (add-hook 'after-make-frame-functions
           (lambda (frame)
             (select-frame frame)

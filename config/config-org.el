@@ -372,7 +372,7 @@ linkcolor  = blue
     (setq org-publish-timestamp-directory "~/.github.pages/org-cache/")
     (setq org-publish-project-alist
           '(("note"
-             :base-directory "~/drops/note/"
+             :base-directory "~/.emacs.d/emacs/drops/note/"
              :base-extension "rel.org"
              :publishing-directory "~/.github.pages"
              :sitemap-filename "index.org"
@@ -396,7 +396,7 @@ linkcolor  = blue
 "
              :sitemap-sort-folders nil)
             ("extra"
-             :base-directory "~/drops/note/extra/"
+             :base-directory "~/.emacs.d/emacs/drops/note/extra/"
              :base-extension "png"
              :publishing-directory "~/.github.pages/extra"
              :publishing-function org-publish-attachment
@@ -469,8 +469,8 @@ linkcolor  = blue
   :commands deft
   :config
   (progn
-    (if (file-accessible-directory-p "~/drops/note/")
-        (setq deft-directory "~/drops/note/"))
+    (if (file-accessible-directory-p "~/.emacs.d/emacs/drops/note/")
+        (setq deft-directory "~/.emacs.d/emacs/drops/note/"))
     (bind-key "C-x k" 'quit-window deft-mode-map)
     (bind-key "<f12>" 'quit-window deft-mode-map))
   :bind ("<f12>" . deft))
@@ -504,7 +504,7 @@ linkcolor  = blue
     (add-to-list 'org-export-filter-final-output-functions
                  'ox-html-clear-single-linebreak-for-cjk)))
 
-(setq youdao-drill-file (expand-file-name "~/drops/note/vocabulary_memo.org"))
+(setq youdao-drill-file (expand-file-name "~/.emacs.d/emacs/drops/note/vocabulary_memo.org"))
 
 ;; (use-package org-weather
 ;;   :config (progn
