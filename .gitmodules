@@ -88,9 +88,6 @@
 [submodule "packages/dtrt-indent"]
 	path = packages/dtrt-indent
 	url = https://github.com/jscheid/dtrt-indent.git
-[submodule "packages/eopengrok"]
-	path = packages/eopengrok
-	url = https://github.com/youngker/eopengrok.el.git
 [submodule "packages/region-state.el"]
 	path = packages/region-state.el
 	url = https://github.com/xuchunyang/region-state.el.git
@@ -250,3 +247,9 @@
 [submodule "packages/edit-at-point.el"]
 	path = packages/edit-at-point.el
 	url = https://github.com/zhangsan-torvalds/edit-at-point.el.git
+[submodule "packages/eopengrok"]
+	path = packages/eopengrok
+	url = https://github.com/zhangsan-torvalds/eopengrok.git
+[submodule "packages/clj-opengrok"]
+	path = packages/clj-opengrok
+	url = https://github.com/zhangsan-torvalds/clj-opengrok.git
