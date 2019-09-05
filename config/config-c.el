@@ -31,7 +31,8 @@
   (local-set-key (kbd "C-h C-h") 'man)
   (setq c-basic-offset 4)
   (subword-mode t)
-  (glasses-mode t)
+  ;;单词大小写之间用下滑下分隔
+  ;;(glasses-mode t)
   (let ((inhibit-message t))
     (dtrt-indent-mode t)
     (dtrt-indent-adapt))

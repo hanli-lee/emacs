@@ -18,7 +18,8 @@
             (with-executable "pylint")
             (defun sw/python-mode-hook()
               (interactive)
-              (glasses-mode t)
+              ;;单词大小写之间用下滑下分隔
+              ;;(glasses-mode t)
               (subword-mode t)
               (sphinx-doc-mode t)
               (electric-operator-mode t)

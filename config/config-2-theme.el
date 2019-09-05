@@ -1,13 +1,11 @@
 ;; --- solarized
- (add-to-list 'custom-theme-load-path "~/.emacs.d/emacs/theme/solarized/")
- (add-to-list 'load-path "~/.emacs.d/emacs/theme/solarized/")
- (require 'solarized)
-;; ;; (setq solarized-distinct-fringe-background nil)
-;; ;; (setq solarized-emphasize-indicators nil)
- (setq solarized-use-variable-pitch nil)
- (setq solarized-high-contrast-mode-line nil)
- (setq solarized-use-less-bold t)
- (load-theme 'solarized-dark t)
+;; (add-to-list 'custom-theme-load-path "~/.emacs.d/emacs/theme/solarized/")
+;; (add-to-list 'load-path "~/.emacs.d/emacs/theme/solarized/")
+;; (require 'solarized)
+;; (setq solarized-use-variable-pitch nil)
+;; (setq solarized-high-contrast-mode-line nil)
+;; (setq solarized-use-less-bold t)
+;; (load-theme 'solarized-dark t)
 ;; (load-theme 'solarized-light t)
 
 ;; --- zenburn
@@ -15,8 +13,8 @@
 ;; (load-theme 'zenburn t)
 
 ;; --- drachla
-;;(add-to-list 'custom-theme-load-path (concat sw/user-init-d "theme/dracula-theme/emacs"))
-;;(load-theme 'dracula t)
+(add-to-list 'custom-theme-load-path (concat sw/user-init-d "theme/dracula-theme/emacs"))
+(load-theme 'dracula t)
 
 ;; |中英文应该能够对齐|
 ;; |zh en should align|

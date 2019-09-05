@@ -24,7 +24,7 @@
 (autoload 'idle-highlight-mode "idle-highlight-mode" "highlight the word the point is on" t)
 (add-hook 'find-file-hook 'idle-highlight-mode)
 ;;(set-frame-font "-DAMA-Ubuntu-light-normal-normal-*-18-*-*-*-*-0-iso10646-1")
-;;(set-frame-font "-DAMA-Ubuntu Mono-normal-normal-normal-*-20-*-*-*-m-0-iso10646-1")
+(set-frame-font "-DAMA-Ubuntu Mono-normal-normal-normal-*-20-*-*-*-m-0-iso10646-1")
 
 (require 'eopengrok)
 

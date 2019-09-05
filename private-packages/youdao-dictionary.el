@@ -114,7 +114,7 @@ i.e. `[语][计] dictionary' => 'dictionary'."
 (setq drill-word nil)
 (setq drill-content nil)
 (setq drill-phonetic nil)
-;; (defvar youdao-drill-file nil)
+(defvar youdao-drill-file nil)
 (defun save-drill ()
   (interactive)
   (let ((buffer (find-file-noselect youdao-drill-file)))

@@ -1,0 +1,1261 @@
+#+TITLE: Vocabulary Memo
+#+AUTHOR: Li Han (韩立)
+#+EMAIL: hl09083253cy@126.com
+#+DATE: <2018-01-02 二>
+* Vocabulary Memo
+* recursion    :drill:
+{rɪ'kɜːʃ(ə)n}
+** Answer
+- n. [数] 递归，循环；递归式
+
+- Recursion :: 递归, 递归 (计算机科学), 递回
+- Left recursion :: 左递归, 左递归, 左
+- recursion filter :: 递归滤波器, 递推滤波器
+* semantics    :drill:
+{sɪ'mæntɪks}
+** Answer
+- n. [语] 语义学；语义论
+
+- semantics :: 语义学, 形式语义学, 语义学
+- Denotational semantics :: 指称语义, 指称语义, 指称语义学
+- Operational semantics :: 操作语义学, 操作语义学, 运算语义
+* propagates    :drill:
+{'prɒpəgeɪt}
+** Answer
+- vt. 传播；传送；繁殖；宣传
+- vi. 繁殖；增殖
+
+- propagates :: 传播, 繁殖, 反向
+- flame propagates :: 火焰传播
+- integration propagates :: 国际传播
+* boost    :drill:
+{buːst}
+** Answer
+- n. 推动；帮助；宣扬
+- vi. 宣扬；偷窃
+- vt. 促进；增加；支援
+- n. (Boost)人名；(英)布斯特；(德)博斯特
+
+- Boost :: Boost C++ Libraries, 推进, 提高
+- boost controller :: 压力控制器水喉制, 水喉制, 增压控制器
+- MIC Boost :: 麦克风加强, 麦克风增强, 麦克风增益
+* bullet    :drill:
+{'bʊlɪt}
+** Answer
+- n. 子弹；只选某党全部候选人的投票；豆子
+- vi. 射出；迅速行进
+- n. (Bullet)人名；(法)比莱
+
+- Bullet :: 子弹, 子弹, 项目符号
+- Expanding bullet :: 达姆弹, 达姆弹, 开花弹
+- bullet hell :: 弹幕射击游戏, 一款挺劲爆的弹幕游戏, 子弹地狱
+* determinism    :drill:
+{dɪ'tɜːmɪnɪz(ə)m}
+** Answer
+- n. [力] 决定论
+
+- determinism :: 决定论, 宿命论, 确定性
+- psychic determinism :: 心理决定论, 心灵决定论, 精神决定论
+- social determinism :: 社会决定论
+* readjusted    :drill:
+{riːə'dʒʌst}
+** Answer
+- vi. 再调整；重新适应
+- vt. 使…重新调整；使…重新适应
+
+- readjusted :: 被重调的, 调整
+- readjusted boundaries :: 调正后的边界线
+- readjusted accordingly :: 作出相应的调整
+* overhead    :drill:
+{əʊvə'hed}
+** Answer
+- n. 天花板；[会计] 经常费用；间接费用；吊脚架空层
+- adj. 高架的；在头上的；在头顶上的
+- adv. 在头顶上；在空中；在高处
+
+- overhead :: 日常管理费, 厂皮, 日常开支
+- Manufacturing overhead :: 制造费用, 制造间接费用, 制造间接费
+- Overhead crane :: 天车, 高架起重机, 桥式起重机
+* spin    :drill:
+{spɪn}
+** Answer
+- n. 旋转；疾驰
+- vi. 旋转；纺纱；吐丝；晕眩
+- vt. 使旋转；纺纱；编造；结网
+
+- Spin :: 旋转, 自旋, 自旋
+- Spin City :: 政界小人物, 旋转城市, 政界小孩儿物
+- Spin polarization :: 自旋极化, 自旋极化, 自旋极化率
+* hence    :drill:
+{hens}
+** Answer
+- adv. 因此；今后
+
+- hence :: 所以, 因此, 从此
+- hence ad :: 从此, 因此, 今后
+- Hence Judaism :: 因此犹太教
+* concept    :drill:
+{'kɒnsept}
+** Answer
+- n. 观念，概念
+
+- concept :: 概念, 观念, 思想
+- selling concept :: 推销观点, 推销观念, 销售观念
+- Design concept :: 设计理念, 设计概念, 设计思想
+* algorithm    :drill:
+{'ælgərɪð(ə)m}
+** Answer
+- n. [计][数] 算法，运算法则
+
+- Algorithm :: 算法, 算法, 演算法
+- Ranking Algorithm :: 排名算法, 名次算法, 排名算
+- sorting algorithm :: 排序算法, 分类算法, 排序演算法
+* Inversion    :drill:
+{ɪn'vɜːʃ(ə)n}
+** Answer
+- n. 倒置；反向；倒转
+
+- Inversion :: 逆温, 逆序对, 转位
+- Walden inversion :: 瓦尔登翻转, 瓦尔登反转, 瓦尔登转化
+- first inversion :: 第一转位, 熬头转位, 第一委婉位
+* unbounded    :drill:
+{ʌn'baʊndɪd}
+** Answer
+- adj. 无限的；不受控制的
+
+- Unbounded :: 浩瀚, 无界, 极大的
+- radially unbounded :: 径向无界
+- unbounded regional :: 无界区域
+* amount    :drill:
+{ə'maʊnt}
+** Answer
+- n. 数量；总额，总数
+- vi. 总计，合计；相当于；共计；产生…结果
+
+- amount :: 数量, 金额, 数额
+- amount to :: 总共达到, 实际上是, 合计
+- aggregate amount :: 总额, 总款额, 总金额
+* meantime    :drill:
+{'miːntaɪm}
+** Answer
+- n. 其时，其间
+- adv. 同时；其间
+
+- Meantime :: 其间, 同时, 当时
+- MNTIME Meantime :: 同时
+- meantime n :: 其时, 其间
+* preempts    :drill:
+{prɪ'empt}
+** Answer
+- vt. 先占；先取；以先买权获得
+
+- preempts :: 先占有
+* hog    :drill:
+{hɒg}
+** Answer
+- n. 猪，象猪般的人；贪婪者
+- vt. 使拱起
+- vi. 拱起
+- n. (Hog)人名；(法)奥格
+
+- hog :: 阉猪, 肥猪, Histograms of Oriented Gradients
+- hog shred :: 松散机, 粉碎机, 松散机;粉碎机，压碎机
+- hog fat :: 猪油, 猪脂
+* grab    :drill:
+{græb}
+** Answer
+- n. 攫取；霸占；夺取之物
+- vt. 攫取；霸占；将…深深吸引
+- vi. 攫取；夺取
+
+- Grab :: 抓起, 抓斗, 抓住
+- grab crane :: 抓斗起重机, 抓斗吊车, 抓岩机吊车
+- boomerang grab :: 自返式取样器
+* Terminology    :drill:
+{,tɜːmɪ'nɒlədʒɪ}
+** Answer
+- n. 术语，术语学；用辞
+
+- terminology :: 术语学, 术语, 术语集
+- Environmental terminology :: 环境术语
+- kinship terminology :: 亲属术语, 亲属称谓, 姻亲术语
+* simultaneously    :drill:
+{,sɪml'teɪnɪəslɪ}
+** Answer
+- adv. 同时地
+
+- simultaneously :: 同时地, 同, 并举
+- receiving simultaneously :: 节点集同步接收
+- Simultaneously Proposed :: 同时提出
+* interchangeably    :drill:
+{intə'tʃeindʒəbli}
+** Answer
+- adv. [数] 可交换地
+
+- interchangeably :: 可交换地, 可交地, 可交换的
+- Interchangeably with knowledge :: 知识互换
+- Ask And Answer Interchangeably :: 一问一答
+* diverge    :drill:
+{daɪ'vɜːdʒ; dɪ-}
+** Answer
+- vt. 使偏离；使分叉
+- vi. 分歧；偏离；分叉；离题
+
+- diverge :: 分歧, 分岔, 发散
+- diverge predictor :: 分支预测器
+- time diverge :: 时刻分叉
+* converge    :drill:
+{kən'vɜːdʒ}
+** Answer
+- vt. 使汇聚
+- vi. 聚集；靠拢；收敛
+
+- converge :: 收敛, 会聚, 集中于一点
+- to converge :: 汇集, 交会, 趋同
+- Converge Infrastructure :: 融合架构
+* nesting    :drill:
+{'nestɪŋ}
+** Answer
+- n. [计] 嵌套；造巢；镶嵌
+- v. 为…筑巢；整天呆在家里；使套入（nest的ing形式）
+
+- nesting :: 嵌套, 对象的嵌套, 堆集
+- Nesting Time :: 筑巢时间
+- Plate Nesting :: 套料模块, 板材套料
+* respectively    :drill:
+{rɪ'spektɪvlɪ}
+** Answer
+- adv. 分别地；各自地，独自地
+
+- Respectively :: 分别, 各自地, 各个地
+- respectively ad :: 各自地
+- increased respectively :: 分别提高, 分别增加
+* join    :drill:
+{dʒɒɪn}
+** Answer
+- n. 结合；连接；接合点
+- vi. 加入；参加；结合
+- vt. 参加；结合；连接
+- n. (Join)人名；(法)茹安
+
+- join :: 连接, 参加, 加入
+- LEFT JOIN :: 左连接, 左联接, 左外连接
+- right join :: 右连接, 右联接, 右外连接
+* coefficient    :drill:
+{,kəʊɪ'fɪʃ(ə)nt}
+** Answer
+- n. [数] 系数；率；协同因素
+- adj. 合作的；共同作用的
+
+- Coefficient :: 系数, 协同因素, 保障系数
+- UEFA coefficient :: 欧洲足联积分排名
+- diffusion coefficient :: 扩散系数, 扩散率, 分散系数
+* piece    :drill:
+{piːs}
+** Answer
+- n. 块；件；篇；硬币
+- vt. 修补；接合；凑合
+
+- Piece :: 件, 块, Piece (新垣结衣单曲)
+- PIECE RATE :: 记件, 计件工资, 记件工资
+- Set piece :: 定点球, 定点球, 定位球
+* aside    :drill:
+{ə'saɪd}
+** Answer
+- prep. 在…旁边
+- n. 旁白；私语，悄悄话；离题的话
+- adv. 离开，撇开；在旁边
+
+- Aside :: 抛开, 留出, 撇开
+- Aside :: 旁白
+- cast aside :: 消除, 废除, 抛弃
+* legitimate    :drill:
+{lɪ'dʒɪtɪmət}
+** Answer
+- adj. 合法的；正当的；合理的；正统的
+- vt. 使合法；认为正当（等于legitimize）
+
+- Legitimate :: 合法, 合理的, 正当的
+- Legitimate expectation :: 信赖保护原则, 合法预期, 合理期待
+- legitimate power :: 法定权, 合法权力, 合法权
+* colon    :drill:
+{'kəʊlən}
+** Answer
+- n. [解剖] 结肠；冒号（用于引语、说明、例证等之前）；科郎（哥斯达黎加货币单位）
+
+- colon :: 冒号, 结肠, 科隆
+- Colon Cancer :: 结肠癌, 大肠癌, 结肠肿瘤
+- Teatro Colon :: 科隆剧院, 科隆大剧院, 歌剧院
+* illegal    :drill:
+{ɪ'liːg(ə)l}
+** Answer
+- n. 非法移民，非法劳工
+- adj. [法] 非法的；违法的；违反规则的
+
+- Illegal :: 非法, 违法, 不合法的
+- illegal deal :: 猫腻儿
+- Illegal Tender :: 非法招标, 非法反击
+* legal    :drill:
+{'liːg(ə)l}
+** Answer
+- adj. 法律的；合法的；法定的；依照法律的
+- n. (Legal)人名；(法)勒加尔
+
+- Legal :: 法律, 法律界功能界别, 合法的
+- Legal positivism :: 法律实证主义, 法律实证主义, 法实证主义
+- legal interest :: 法定利息, 法定权益, 法律利益
+* semicolon    :drill:
+{,semɪ'kəʊlən; -'kəʊlɒn}
+** Answer
+- n. 分号
+
+- Semicolon :: 分号, 分号, 缺少操作符或分号
+- Left semicolon :: 左半结肠, 左半结肠
+- final semicolon :: 最终分号
+* permutes    :drill:
+{pə'mjuːt}
+** Answer
+- vt. 交换；变更；排列
+
+- Permutes :: 置换
+- Any-to-Any permutes :: 任意到任意排列
+* success    :drill:
+{sək'ses}
+** Answer
+- n. 成功，成就；胜利；大获成功的人或事物
+
+- Success :: 成功, Success, Success
+- HUGE SUCCESS :: 巨大的成功, 很大的成功, 巨大成功
+- HMAS Success :: 成功舰, 成功号
+* fence    :drill:
+{fens}
+** Answer
+- n. 栅栏；围墙；剑术
+- vt. 防护；用篱笆围住；练习剑术
+- vi. 击剑；搪塞；围以栅栏；跳过栅栏
+
+- fence :: 栅栏, 篱笆, 围栏
+- safety fence :: 安全栏, 防撞栏, 防护栅
+- oil fence :: 围油栏, 水上拦油栅, 溢油围栅
+* ordinary    :drill:
+{'ɔːdɪn(ə)rɪ; -d(ə)n-}
+** Answer
+- n. 普通；平常的人（或事）
+- adj. 普通的；平凡的；平常的
+
+- ordinary :: 普通的, 平常, 平凡
+- Ordinary Heroes :: 千言万语 (电影), 千言万语, 平凡英雄
+- ordinary train :: 普通列车, 平凡列车, 普通轮系
+* indefinitely    :drill:
+{ɪn'defɪnɪtlɪ}
+** Answer
+- adv. 不确定地，无限期地；模糊地，不明确地
+
+- Indefinitely :: 无限期, 无限定地, 不确定地
+- Postpone indefinitely :: 延期讨论动议, 无限期延期
+- indefinitely ad :: 无限地
+* behalf    :drill:
+{bɪ'hɑːf}
+** Answer
+- n. 代表；利益
+
+- behalf :: 利益, 维护, 代表
+- behalf attribute :: 利益性
+- accrued behalf :: 应累算利益
+* introspection    :drill:
+{ɪntrə(ʊ)'spekʃ(ə)n}
+** Answer
+- n. 内省；反省
+
+- Introspection :: 内省法, 自省, 内省
+- introspection method :: 内省法
+- introspection illusion :: 内省错觉
+* adjacent    :drill:
+{ə'dʒeɪs(ə)nt}
+** Answer
+- adj. 邻近的，毗连的
+
+- Adjacent :: 相邻, 邻近的, 接近的
+- adjacent channel :: 相邻信道, 邻近信道, 相邻通道
+- Adjacent vertices :: 相邻顶点, 邻顶, 邻顶点
+* thunk    :drill:
+{θʌŋk}
+** Answer
+- n. 形实转换程序
+
+- thunk :: 形实转换程序, 坦克, 形式转换
+- universal thunk :: 通用替换程序
+- Door Thunk :: 大众新速腾
+* poison    :drill:
+{'pɒɪz(ə)n}
+** Answer
+- n. 毒药，毒物；酒；有毒害的事物；[助剂] 抑制剂
+- adj. 有毒的
+- vt. 污染；使中毒，放毒于；败坏；阻碍
+- vi. 放毒，下毒
+- n. (Poison)人名；(西)波伊松
+
+- Poison :: 毒药, 毒物, 毒药乐队
+- Poison Ivy :: 毒藤女, 野葛, 欲海潮
+- poison pill :: 毒丸, 毒丸计划, 毒药丸
+* exploit    :drill:
+{ˈeksplɔɪt;ɪkˈsplɔɪt}
+** Answer
+- n. 勋绩；功绩
+- vt. 开发，开拓；剥削；开采
+
+- exploit :: 利用, 开发, 开采
+- exploit code :: 漏洞检测代码, 漏洞利用代码, Exploit代码
+- Exploit Weakness :: 利用弱点, 弱点攻击
+* negate    :drill:
+{nɪ'geɪt}
+** Answer
+- n. 对立面；反面
+- vt. 否定；取消；使无效
+- vi. 否定；否认；无效
+
+- negate :: 否定, 否认, 取消
+- deny negate :: 否认
+- Negate Energy :: 中和能量
+* weird    :drill:
+{wɪəd}
+** Answer
+- n. （苏格兰）命运；预言
+- adj. 怪异的；不可思议的；超自然的
+
+- Weird :: 怪异, 怪的, 不可思议的
+- Weird Nature :: 灵趣自然
+- too weird :: 太不可思议
+* nursery    :drill:
+{'nɜːs(ə)rɪ}
+** Answer
+- n. 苗圃；托儿所；温床
+
+- nursery :: 苗圃, 托儿所, 幼儿园
+- nursery school :: 托儿所, 幼儿园, 保育学校
+- nursery stock :: 苗木, 定植苗, 幼苗
+* canned    :drill:
+{kænd}
+** Answer
+- adj. 罐装的；录音的
+- v. 装于罐头（can的过去分词）
+
+- canned :: 罐装的, 罐头的, 听装
+- canned beer :: 罐装啤酒, 听装啤酒, 罐拆啤酒
+- canned mushroom :: 蘑菇罐头, 罐头菇, 罐头蘑菇
+* backslash    :drill:
+{'bækslæʃ}
+** Answer
+- n. 反斜杠，反斜线符号
+
+- backslash :: 反斜杠, 反斜线, 反斜线转义符
+- backslash substitution :: 反斜杠置换
+- gstrich Backslash :: 反斜杠
+* verbatim    :drill:
+{vɜː'beɪtɪm}
+** Answer
+- adj. 逐字的
+- adv. 逐字地
+
+- Verbatim :: 威宝, 逐字的, 一字不差
+- verbatim record :: 逐字纪录, 原文记录, 逐字记录
+- verbatim string :: 逐字字符串, 原义字符串
+* inferiors    :drill:
+{in'fiəriəz}
+** Answer
+- n. 下级；晚辈；次品；低于他人者（inferior的复数）
+
+- inferiors :: 上级, 下级, 差的
+- limit inferiors :: 下限
+- limes inferiors :: 下极限
+* extant    :drill:
+{ɪk'stænt; ek-; 'ekst(ə)nt}
+** Answer
+- adj. 现存的；显著的
+
+- Extant :: 现生种, 现存的, 传世的
+- extant destroyed :: 现存的
+- Extant Data :: 现存资料
+* spare    :drill:
+{speə}
+** Answer
+- n. 剩余；备用零件
+- vt. 节约，吝惜；饶恕；分出，分让
+- adj. 多余的；瘦的；少量的
+- vi. 饶恕，宽恕；节约
+
+- spare :: 多余的, 备用的, 空闲的
+- Spare time :: 业余时间, 余暇, 闲暇时间
+- spare dies :: 模具备品, 模具有品, 生产模型有品
+* map    :drill:
+{mæp}
+** Answer
+- n. 地图；示意图；染色体图
+- vt. 映射；计划；绘制地图；确定基因在染色体中的位置
+- vi. 基因被安置
+- n. (Map)人名；(法)马普
+
+- map :: 地图, 映射, 电子地图
+- World Map :: 世界地图, 世界地图, 全世界电子地图
+- Geologic map :: 地质图, 地质图, 地质学
+* omitted    :drill:
+{əʊ'mɪtɪd}
+** Answer
+- v. 遗漏，省略（omit的过去分词）
+- adj. 省略了的；省去的
+
+- omitted :: 遗漏, 忽略的, 漏掉
+- omitted variables :: 遗漏变量, 被忽视的变量, 忽略的变量
+- omitted point :: 跳薪点
+* omission    :drill:
+{ə(ʊ)'mɪʃ(ə)n}
+** Answer
+- n. 疏忽，遗漏；省略；冗长
+
+- Omission :: 遗漏, 省略, 不作为
+- material omission :: 具关键性的遗漏, 重要遗漏
+- malicious omission :: 蓄意不作为, 蓄意遗漏
+* purge    :drill:
+{pɜːdʒ}
+** Answer
+- n. 净化；泻药
+- vt. 净化；清洗；通便
+- vi. 净化；通便
+
+- Purge :: 清除内存数据, 通便, 清除
+- purge valve :: 放气阀, 放水阀, 清洗阀
+- Purge filter :: 自净过滤器
+* exploitation    :drill:
+{eksplɒɪ'teɪʃ(ə)n}
+** Answer
+- n. 开发，开采；利用；广告推销；剥削
+
+- Exploitation :: 剥削, 开发, 剥削
+- mine exploitation :: 矿山开发, 矿山开采, 矿业开发
+- exploitation blasting :: 开发爆破
+* bleed    :drill:
+{bliːd}
+** Answer
+- vt. 使出血；榨取
+- vi. 流血；渗出；悲痛
+
+- bleed :: 出血, 流血, 出血 (印刷)
+- bleed white :: 花光血汗钱, 流尽鲜血, 使耗尽财富
+- bleed nipple :: 放气嘴, 减压嘴, 放气嘴;减压嘴
+* dangling    :drill:
+{'dæŋg(ə)lɪŋ; 'dæŋglɪŋ}
+** Answer
+- v. 摇晃（dangle的ing形式）
+- adj. 悬挂的；摇摆的
+
+- Dangling :: 晃晃悠悠, 悬挂的, 悬空
+- Dangling pointer :: 迷途指针, 迷途指针, 悬摆指针
+- Dangling Node :: 悬挂节点
+* vulnerable    :drill:
+{ˈvʌlnərəbl}
+** Answer
+- adj. 易受攻击的，易受…的攻击；易受伤害的；有弱点的
+
+- vulnerable :: 易危物种, 易受攻击的, 易受伤害的
+- Vulnerable groups :: 弱势群体, 强势集体, 弱势社群
+- vulnerable species :: 易危物种, 渐危种, 易危种
+* constitute    :drill:
+{'kɒnstɪtjuːt}
+** Answer
+- vt. 组成，构成；建立；任命
+
+- Constitute :: 构成, 组成, 任命
+- Color constitute :: 色彩构成
+- Constitute forms :: 构成方式
+* meticulous    :drill:
+{mə'tɪkjələs}
+** Answer
+- adj. 一丝不苟的；小心翼翼的；拘泥小节的
+
+- Meticulous :: 细致, 一丝不苟, 小心翼翼的
+- Meticulous Care :: 细致周到的服务, 精心照顾, 体恤入微
+- meticulous management :: 精细化管理, 管理精细化, 精细管理
+* emerge    :drill:
+{ɪ'mɜːdʒ}
+** Answer
+- vi. 浮现；摆脱；暴露
+
+- emerge :: 出现, 显现, 浮现
+- emerge from :: 曾经一度遭到, 从, 浮现
+- emerge as :: 成为, 应运而生
+* influence    :drill:
+{'ɪnflʊəns}
+** Answer
+- n. 影响；势力；感化；有影响的人或事
+- vt. 影响；改变
+
+- Influence :: 影响, 影响力, 感化
+- influence on :: 影响, 对, 的影响
+- influence factors :: 影响因素, 影响因子, 影
+* aiding    :drill:
+{eidiŋ}
+** Answer
+- n. 帮助
+- v. 帮助；援助；有助于（aid的ing形式）
+
+- aiding :: 帮助, 助镀, 方位
+- aiding  abetting :: 教唆, 煽动犯罪
+- aiding cup :: 应急杯
+* scarce    :drill:
+{skeəs}
+** Answer
+- adj. 缺乏的，不足的；稀有的
+- adv. 仅仅；几乎不；几乎没有
+
+- scarce :: 缺乏的, 罕见, 稀少的
+- scarce a :: 缺乏的, 稀有的, 稀少的
+- scarce tactic :: 吓唬人的办法, 恐吓人的办法
+* complicated    :drill:
+{'kɒmplɪkeɪtɪd}
+** Answer
+- adj. 难懂的，复杂的
+
+- Complicated :: 复杂的, 超复杂, 超复杂
+- So complicated :: 那么复杂吗, 太过复杂, 那么庞杂吗
+- complicated cholecyst :: 复杂困难胆囊
+* sophisticated    :drill:
+{sə'fɪstɪkeɪtɪd}
+** Answer
+- adj. 复杂的；精致的；久经世故的；富有经验的
+- v. 使变得世故；使迷惑；篡改（sophisticate的过去分词形式）
+
+- sophisticated :: 精细的, 复杂的, 精致的
+- sophisticated equipment :: 尖端设备, 高级设备, 顶级设备
+- sophisticated soil :: 精密的泥土
+* svelte    :drill:
+{svelt}
+** Answer
+- adj. 苗条的；线条清晰的；和蔼的
+
+- svelte :: 苗条的, 体态苗条的, 女人体态苗条的
+- Project Svelte :: 苗条工程, 瘦身计划, 减肥计划
+- Eau Svelte :: 纤水
+* overdue    :drill:
+{əʊvə'djuː}
+** Answer
+- adj. 过期的；迟到的；未兑的
+
+- overdue :: 过期, 逾期, 过期未付的
+- overdue interest :: 欠息, 应收未收利息, 逾期利息
+- Overdue Payment :: 逾期付款, 滞纳金, 过期付款
+* isolation    :drill:
+{aɪsə'leɪʃ(ə)n}
+** Answer
+- n. 隔离；孤立；[电] 绝缘；[化学] 离析
+
+- isolation :: 隔离, 事务隔离, 四位进攻球员在一边
+- SOCIAL ISOLATION :: 社交孤立, 社会隔离, 社会隔绝
+- Isolation room :: 隔离室, 拒却室, 断绝室
+* integrate    :drill:
+{'ɪntɪgreɪt}
+** Answer
+- n. 一体化；集成体
+- adj. 整合的；完全的
+- vi. 求积分；取消隔离；成为一体
+- vt. 使…完整；使…成整体；求…的积分；表示…的总和
+
+- integrate :: 使结合, 积分, 使一体化
+- Integrate testing :: 集成测试, 成测试, 综合测试
+- integrate type :: 统合型
+* unprivileged    :drill:
+{ʌn'prɪvɪlɪdʒd}
+** Answer
+- adj. 无特权的，贫穷的
+
+- unprivileged :: 无特权的, 贫穷的, 非特权模式
+- unprivileged belligerency :: 无特权交战地位
+- unprivileged state :: 非特权状态
+* gateway    :drill:
+{'geɪtweɪ}
+** Answer
+- n. 门；网关；方法；通道；途径
+
+- Gateway :: 网关, 捷威, 国际关口局
+- Media Gateway :: 媒体网关, 媒体闸道器, 媒体闸道
+- transparent gateway :: 透明网关, 透明网, 有谁用过网关
+* unidirectional    :drill:
+{,juːnɪdɪ'rekʃ(ə)n(ə)l; ,juːnɪdaɪ-}
+** Answer
+- adj. 单向的；单向性的
+
+- Unidirectional :: 单向, 单向性的, 单方向的
+- unidirectional circuit :: 单向电路, 单向回路问题, 单向回路
+- unidirectional pulse :: 单向脉冲, 极性脉冲
+* bidirectional    :drill:
+{baɪdɪ'rekʃ(ə)n(ə)l; -daɪ-}
+** Answer
+- adj. 双向的；双向作用的
+
+- Bidirectional :: 双向性的, 双向剪裁, 有两个方向的
+- bidirectional search :: 双向搜索, 双向搜寻, 双向搜索算法
+- Bidirectional Switch :: 双向开关, 双向转换开关;双向开关, 双向开关
+* presented.    :drill:
+{prɪˈzentid}
+** Answer
+- v. 提出（present的过去分词）；呈递，提供
+
+- Samples are presented free. :: 免费提供样品。
+- and the Spy presented himself. :: 密探进来了。
+- A good opportunity presented itself. :: 好机会出现了。
+* overcome    :drill:
+{əʊvə'kʌm}
+** Answer
+- vt. 克服；胜过
+- vi. 克服；得胜
+
+- Overcome :: 克服, 战胜, 打败
+- Overcome myself :: 克服自己, 乌索布, 战胜自己
+- to overcome :: 克服, 战胜, 为克服
+* obstacle    :drill:
+{'ɒbstək(ə)l}
+** Answer
+- n. 障碍，干扰；妨害物
+
+- Obstacle :: 障碍, 障碍物, 妨碍
+- obstacle detection :: 障碍探测, 障碍物检测, 故障探测
+- psychological obstacle :: 心理障碍, 心理障碍的
+* trade-off    :drill:
+{'treidɔf,-ɔ:f}
+** Answer
+- n. 交换，交易；权衡；协定
+
+- trade-off :: 权衡, 取舍, 交易
+- trade-off analysis :: 权衡分析, 取舍分析, 衡量阐发
+- trade-off hypothesis :: 矫枉失衡学说, 矫枉失衡假说, 矫枉掉衡学说
+* marshal    :drill:
+{'mɑːʃ(ə)l}
+** Answer
+- n. 元帅；司仪
+- vt. 整理；引领；编列
+- vi. 排列
+- n. (Marshal)人名；(英)马歇尔
+
+- marshal :: 元帅, 马歇尔, 列集
+- Chief Marshal :: 军兵种主帅 (苏联), 苏联军兵种主帅, 检录长
+- Marshal Windsor :: 温德索尔元帅
+* prospect    :drill:
+{'prɒspekt}
+** Answer
+- n. 前途；预期；景色
+- vt. 勘探，勘察
+- vi. 勘探，找矿
+
+- prospect :: 前景, 前途, 展望
+- Prospect Point :: 普罗斯佩克特角, 希望角, 景观顶
+- FUTURE PROSPECT :: 未来展望, 发展前景, 未来愿景
+* realized    :drill:
+{'riːəlaɪzd}
+** Answer
+- adj. 实现的；已实现
+- vt. 实现（realize的过去式及过去分词）
+
+- Realized :: 变现, 已实现, 意识到
+- realized investment :: 已实现投资, 实际投资
+- profit realized :: 实现利润, 已实现利润, 实现利益
+* component    :drill:
+{kəm'pəʊnənt}
+** Answer
+- n. 成分；组件；[电子] 元件
+- adj. 组成的，构成的
+
+- Component :: 组件, 组成部分, 成分
+- Component video :: 色差端子, 分量视频, 分量视频信号
+- reactive component :: 无功分量, 抗性分量, 电抗成分
+* apparent    :drill:
+{ə'pær(ə)nt}
+** Answer
+- adj. 显然的；表面上的
+
+- apparent :: 明显的, 显然的, 外观上的
+- Apparent power :: 交流电功率, 视在功率, 表观功率
+- apparent viscosity :: 表观粘度, 视粘度, 表观黏度
+* distributed    :drill:
+{dɪ'strɪbjʊtɪd}
+** Answer
+- adj. 分布式的，分散式的
+
+- Distributed :: 分布式, 分布, 分散式
+- distributed computing :: 分布式计算, 分布式计算, 分散式运算
+- Distributed database :: 分布式数据库, 分布式数据库, 数据库
+* consists    :drill:
+{kən'sɪsts}
+** Answer
+- v. 由…构成；由…组成（consist的三单形式）
+
+- consists :: 包括, 由, 在于
+- Consists Of :: 包含, 由……组成, 充斥着
+- mainly consists :: 主要包括, 主要由
+* division    :drill:
+{dɪ'vɪʒ(ə)n}
+** Answer
+- n. [数] 除法；部门；分配；分割；师（军队）；赛区
+
+- Division :: 除法, 专区, 师
+- 25th Division :: 第25师, 第25师团, 越南共和国第25步兵师
+- Southeast Division :: 东南分区, NBA东南赛区, NBA东南赛区
+* persistent    :drill:
+{pə'sɪst(ə)nt}
+** Answer
+- adj. 固执的，坚持的；持久稳固的
+
+- Persistent :: 执着, 持久稳固的, 坚持的
+- persistent overheating :: 持续升温, 连续升温
+- Persistent Classes :: 持久化类, 久化类, 持久类
+* partitions    :drill:
+{pa:'tiʃənz}
+** Answer
+- n. [计] 划分（partition的复数）
+- v. 分开（partition的三单形式）
+
+- Partitions :: 系统识别的分区表, 分区, 分割
+- Generating Partitions :: 划分生成
+- Merge Partitions :: 合并分区, 合并表分区, 分区合并
+* discretionary    :drill:
+{dɪ'skreʃ(ə)n(ə)rɪ}
+** Answer
+- adj. 任意的；自由决定的
+
+- discretionary :: 任意的, 随意的, 自由决定的
+- Discretionary Account :: 委托帐户, 全权代客买卖账户, 全权委托户口
+- discretionary order :: 全权委托盘, 全权委托指令, 创建全权委托指令
+* rudimentary    :drill:
+{,ruːdɪ'ment(ə)rɪ}
+** Answer
+- adj. 基本的；初步的；退化的；残遗的；未发展的
+
+- rudimentary :: 根本的, 未发展的, 最初阶段
+- rudimentary knowledge :: 基础知识, 初步知识, 起码的知识
+- rudimentary organ :: 萎退器官, 痕迹瀑, 痕迹器官
+* mandatory    :drill:
+{'mændət(ə)rɪ}
+** Answer
+- n. 受托者（等于mandatary）
+- adj. 强制的；托管的；命令的
+
+- mandatory :: 命令的, 强制的, 强制性
+- mandatory plan :: 指令性计划, 强制性计划, 指令性打算
+- mandatory offer :: 强制要约, 强制性要约, 强制性收购建议
+* accumulate    :drill:
+{ə'kjuːmjʊleɪt}
+** Answer
+- vt. 积攒
+- vi. 累积；积聚
+
+- accumulate :: 积累, 积聚, 累积
+- accumulate experience :: 获取经验, 积累经验, 积累了经验
+- accumulate vt :: 积累, 积聚
+* transitive    :drill:
+{'trænsɪtɪv; 'trɑːns-; -nz-}
+** Answer
+- n. 传递；及物动词
+- adj. 及物的；过渡的；可迁的
+
+- transitive :: 传递的, 可传递的, 及物的
+- Transitive closure :: 传递闭包, 传递闭包, 传递闭包
+- transitive law :: 可迁律, 传递律, 递移律
+* possession    :drill:
+{pə'zeʃ(ə)n}
+** Answer
+- n. 拥有；财产；领地；自制；着迷
+
+- possession :: 所有, 佔有, 隐之书
+- The Possession :: 死魂盒, 聚魔柜, 死魂盒
+- Spirit possession :: 附身, 灵
+* dedicated    :drill:
+{'dedɪkeɪtɪd}
+** Answer
+- adj. 专用的；专注的；献身的
+- v. 以…奉献；把…用于（dedicate的过去式和过去分词）
+
+- dedicated :: 有奉献精神的, 专用, 敬业
+- Dedicated Host :: 开始使用独立主机, 独立主机
+- Dedicated to :: 奉献给, 献身于, 致力于
+* facility    :drill:
+{fə'sɪləti}
+** Answer
+- n. 设施；设备；容易；灵巧
+
+- Facility :: 设施, 设备, 便利
+- Facility Manager :: 后勤经理, 厂务经理, 设施经理
+- Facility Engineer :: 厂务工程师, 设备工程师, 设施工程师
+* ambiguous    :drill:
+{æm'bɪgjʊəs}
+** Answer
+- adj. 模糊不清的；引起歧义的
+
+- ambiguous :: 模棱两可的, 模糊的, 不明确的
+- ambiguous grammar :: 歧义性文法, 多义文法, 歧义文法
+- ambiguous strategy :: 模糊战略, 暧昧战略, 威胁策略
+* middleware    :drill:
+{'midlwεə}
+** Answer
+- n. 中间件；中间设备
+
+- Middleware :: 中间件, 中间件, 中介软体
+- Middleware Software :: 中间件软件, 中介软体, 中件软件
+- middleware server :: 中间件服务, 伺服器, 中间层服务器
+* Facilities    :drill:
+{fə'sɪlɪtɪz}
+** Answer
+- n. 设施；工具，设备
+
+- facilities :: 设施, 设备, 条件
+- transportation facilities :: 运输设备, 运输设施, 运输工具
+- Sports facilities :: 体育设施, 运动设施, 体育设备
+* Accordingly,    :drill:
+{ə'kɔːdɪŋlɪ}
+** Answer
+- adv. 因此，于是；相应地；照著
+
+- accordingly :: 于是, 因此, 相应地
+- chamfered accordingly :: 正在翻译, 因此角半径, 因此倒角
+- vary accordingly :: 相应变化, 相应不同, 因此而异
+* threat    :drill:
+{θret}
+** Answer
+- n. 威胁，恐吓；凶兆
+
+- Threat :: 威胁, 恐吓, 挑战
+- threat :: 威胁
+- Stereotype threat :: 成见威胁, 成见威胁, 刻板印象威胁
+* Marshaling    :drill:
+{'mɑ:ʃəliŋ}
+** Answer
+- n. 配制整齐；编组列车
+- adj. 把货车等编级的
+- v. 排列；调度（marshal的ing形式）
+
+- marshaling :: 封送处理, 封送, 列集
+- Data Marshaling :: 数据封送处理
+- Marshaling Cry :: 领军战嚎
+* discharged    :drill:
+{dis'tʃa:dʒd}
+** Answer
+- v. 排出（discharge的过去分词）；卸货
+- adj. 放电的；泻出的
+
+- Discharged :: 出院, 放电的, 卸货
+- discharged liquid :: 排出液体
+- The Discharged :: 出册
+* partner    :drill:
+{'pɑːtnə}
+** Answer
+- n. 伙伴；合伙人；配偶
+- vt. 使合作；与…合伙
+- vi. 合伙；合股；成为搭档
+- n. (Partner)人名；(英、德)帕特纳
+
+- Partner :: 伙伴, 合伙人, 搭档
+- limited partner :: 有限合伙人, 有限责任合伙人, 有限合股人
+- active partner :: 积极参与的合伙人, 活跃合伙人, 参与管理合伙人
+* clobbered    :drill:
+{'klɒbə}
+** Answer
+- vt. 击倒；痛打
+- n. 衣服；软膏；环草胺除草剂
+
+- clobbered :: 伤害
+- Has Been Clobbered :: 无不惨败
+* simulator    :drill:
+{'sɪmjʊleɪtə}
+** Answer
+- n. 模拟器；假装者，模拟者
+
+- simulator :: 模拟器, 仿真器, 模拟装置
+- flight simulator :: 飞行模拟器, 飞行模拟机, 飞行模拟
+- Earth Simulator :: 地球模拟器, 地球模仿器, 地球模拟机
+* suboptimal    :drill:
+{sʌb'ɔptiməl}
+** Answer
+- adj. 次最优的；最适度下的；未达最佳标准的
+
+- suboptimal :: 次优的, 最适度下的, 未达最佳标准的
+- suboptimal filter :: 次最优滤套, 次优滤波器, 次优滤波
+- suboptimal level :: 披露处于一种次优水平
+* contrast    :drill:
+{'kɒntrɑːst}
+** Answer
+- n. 对比；差别；对照物
+- vt. 使对比；使与…对照
+- vi. 对比；形成对照
+
+- Contrast :: 对比度, 对比, 反差
+- by contrast :: 相比之下, 对比之下, 相对照
+- image contrast :: 图像对比度, 影像反差, 影像对比
+* suite    :drill:
+{swiːt}
+** Answer
+- n. （一套）家具；套房；组曲；（一批）随员，随从
+
+- Suite :: 组曲, 套房, 套间
+- presidential suite :: 总统套房, 总统套房, 总统套间
+- Calligra Suite :: Calligra Suite, Calligra Suite
+* intrinsic    :drill:
+{ɪn'trɪnsɪk}
+** Answer
+- adj. 本质的，固有的
+
+- intrinsic :: 固有的, 内在, 本征的
+- intrinsic equation :: 内蕴方程, 内禀方程, 本性方程式
+- Intrinsic 31 :: 内在三一
+* numerous    :drill:
+{'njuːm(ə)rəs}
+** Answer
+- adj. 许多的，很多的
+
+- Numerous :: 众多, 不胜, 盛多
+- Numerous tentacle :: 无数触手
+- Numerous Firms :: 厂商无数
+* aspects    :drill:
+{'æspekts}
+** Answer
+- n. 方面；相位；面貌（aspect的复数）
+
+- Aspects :: 相位, 方面, 守护神
+- radiologic aspects :: 放射学外观
+- Negative aspects :: 消极面, 消极方面
+* overall    :drill:
+{'əʊvərɔːl}
+** Answer
+- n. 工装裤；罩衫
+- adj. 全部的；全体的；一切在内的
+- adv. 全部地；总的说来
+
+- OVERALL :: 工作服, 整体, 总的来说
+- Overall dimensions :: 外形尺寸, 外型尺寸, 机器外形尺寸
+- Yosemite Overall :: 约塞米特总览, 约塞米特总揽
+* ergonomics    :drill:
+{,ɜːgə'nɒmɪks}
+** Answer
+- n. 工效学；人类工程学
+
+- ergonomics :: 工效学, 人体工程学, 人机工程学
+- cognitive ergonomics :: 认知工效学, 认知人因工程, 工效学
+- Ergonomics Abstracts :: 工效学摘要, 工效学择要
+* artifacts    :drill:
+{'a:rtifækts}
+** Answer
+- n. 史前古器物；人工产品
+
+- Artifacts :: 上古神器, 史前古器物, 人工产品
+- Mahjongg Artifacts :: 麻将考古, 考古麻将
+- Preserving Artifacts :: 保护文物
+* aggregate    :drill:
+{'ægrɪgət; (for v.) ˈægrɪgeɪt}
+** Answer
+- n. 合计；集合体；总计
+- adj. 聚合的；集合的；合计的
+- vt. 集合；聚集；合计
+- vi. 集合；聚集；合计
+
+- aggregate :: 骨料, 集群, 总计
+- aggregate supply :: 总供给, 总体供应, 总供给量
+- aggregate performance :: 总体业绩, 总体表现, 骨料性能
+* console    :drill:
+{kən'səʊl}
+** Answer
+- n. [计] 控制台；[电] 操纵台
+- vt. 安慰；慰藉
+- n. (Console)人名；(意、罗)孔索莱
+
+- Console :: 控制台, 安慰, 小桌
+- Virtual Console :: Virtual Console, Virtual Console, 虚拟游戏平台
+- Console game :: 电视游戏, 电视游戏, 单机游戏
+* privileged    :drill:
+{'prɪvəlɪdʒd}
+** Answer
+- adj. 享有特权的；有特别恩典的
+- v. 给予…特权；免除（privilege的过去分词）
+
+- Privileged :: 调教富家女, 特殊的, 有特权的
+- Privileged motion :: 权利动议, 先决的动议案
+- Privileged mode :: 特权模式, 特权状态, 特许方式
+* participate    :drill:
+{pɑː'tɪsɪpeɪt}
+** Answer
+- vi. 参与，参加；分享
+- vt. 分享；分担
+- [ 过去式participated 过去分词participated 现在分词participating ]
+
+- Participate :: 参与, 参加, 分享
+- participate of :: 带有
+- Participate management :: 与员工阶层参与式管理, 参与管理
+* obeys    :drill:
+{ə(ʊ)'beɪ}
+** Answer
+- vt. 服从，听从；按照……行动
+- vi. 服从，顺从；听话
+- n. (Obey)人名；(英、法)奥贝
+
+- obeys :: 遵守, 服从
+- Obeys laws :: 服从法律
+- And Obeys :: 而且服从
+* criteria    :drill:
+{kraɪ'tɪərɪə}
+** Answer
+- n. 标准，条件（criterion的复数）
+
+- criteria :: 标准, 条件, 准则
+- evaluation criteria :: 评标标准, 评估标准, 评价标准
+- Selection criteria :: 选择标准, 选拔准则, 挑选标准
+* anonymity    :drill:
+{ænə'nɪmɪtɪ}
+** Answer
+- n. 匿名；匿名者；无名之辈
+
+- anonymity :: 匿名, 匿名性, 不露身分
+- User anonymity :: 匿名性, 用户匿名, 用户匿名性
+- unconditional anonymity :: 无条件匿名性, 无条件匿名
+* actionable    :drill:
+{'ækʃ(ə)nəb(ə)l}
+** Answer
+- adj. 可控告的；可提起诉讼的
+
+- actionable :: 可控告的, 可引起诉讼的, 可行动
+- Actionable Notifications :: 可操作通知
+- actionable subsides :: 诉补贴
+* metric    :drill:
+{'metrɪk}
+** Answer
+- n. 度量标准
+- adj. 公制的；米制的；公尺的
+
+- metric :: 度量, 公制的, Metric
+- Metric ton :: 公吨, 米制吨, 公制吨
+- metric unit :: 米制, 公制单位, 十进制单位
+* evaluating    :drill:
+{ɪ'væljʊ,eɪt}
+** Answer
+- v. 评估（evaluate的ing形式）
+
+- Evaluating :: 评价, 评估, 绩效考评
+- evaluating indicator :: 评价指标, 评估指数, 过程
+- Evaluating Intellect :: 辨智术, 估智术, 领悟力
+* breakdown    :drill:
+{'breɪkdaʊn}
+** Answer
+- n. 故障；崩溃；分解；分类；衰弱；跺脚曳步舞
+
+- Breakdown :: Break Down, 崩溃, 击穿
+- Breakdown Voltage :: 击穿电压, 击穿电压, 崩溃电压
+- dielectric breakdown :: 介电击穿, 介质击穿, 介质哗
+* fairly    :drill:
+{'feəlɪ}
+** Answer
+- adv. 相当地；公平地；简直
+- n. (Fairly)人名；(英)费尔利
+
+- fairly :: 相当地, 公平地, 公正地
+- Fairly Legal :: 律海佳人, 法律天使, 美人谋律
+- fairly individual :: 相当独特
+* regression    :drill:
+{rɪ'greʃ(ə)n}
+** Answer
+- n. 回归；退化；逆行；复原
+
+- regression :: 回归, 回归分析, 衰退
+- Regression fallacy :: 迴归谬误, 回归谬误
+- regression equation :: 回归方程, 回归方程式, 回线方程
+* vision    :drill:
+{'vɪʒ(ə)n}
+** Answer
+- n. 视力；美景；眼力；幻象；想象力；幻视（漫威漫画旗下超级英雄）
+- vt. 想象；显现；梦见
+
+- Vision :: 视觉, 愿景, 视力
+- G12 Vision :: G12原则
+- stereoscopic vision :: 立体视觉, 实体视觉, 立体视力
+* motivation    :drill:
+{məʊtɪ'veɪʃ(ə)n}
+** Answer
+- n. 动机；积极性；推动
+
+- Motivation :: 动机, 激励, 动机
+- intrinsic motivation :: 内在动机, 内部动机, 内在激励
+- social motivation :: 社会动机, 社会性动机, 社群动机
+* refine    :drill:
+{rɪ'faɪn}
+** Answer
+- vt. 精炼，提纯；改善；使…文雅
+
+- refine :: 精练, 提炼, 精制
+- Refine Edge :: 重新定义选区边缘, 定义选区边缘, 选区边沿
+- Refine Improvements :: 完善改进
+* correlated    :drill:
+{'kɒrəleɪtɪd}
+** Answer
+- adj. 有相互关系的
+- v. （使）相关联；（使）相互对照（correlate的过去分词）
+
+- Correlated :: 关联, 相互关系的, 相关的
+- correlated response :: 相关反应, 互响应
+- correlated variables :: 相关变数, 相关变量, 相关
+* deprecations    :drill:
+{,depri'keiʃən}
+** Answer
+- n. 祈免；贬低；反对
+
+- deprecations :: 反对
+* absent    :drill:
+{ˈæbsənt;(for v.)əbˈsent}
+** Answer
+- adj. 缺席的；缺少的；心不在焉的；茫然的
+- vt. 使缺席
+
+- Absent :: 缺席, 不在, 不存在
+- absent from :: 不在, 缺席, 离开
+- absent a :: 缺席, 不在的, 缺乏的
+* hierarchy    :drill:
+{'haɪərɑːkɪ}
+** Answer
+- n. 层级；等级制度
+
+- hierarchy :: 等级制度, 层次, 统治集团
+- Memory hierarchy :: 内存阶层, 记忆体阶层, 存储层次
+- Hierarchy Viewer :: 层级观察器, 设计用户界面利器, 层级察看器
+* intrinsics    :drill:
+{in'trinsik;-kəl}
+** Answer
+- adj. 固有的；本质的；内在的；实在的；【解剖学】内部的；体内的
+
+- Intrinsics :: 内联函数, 函数, 内嵌原语
+- Compiler Intrinsics :: 编译器内部函数
+- Support for Compiler Intrinsics :: 编译器固有的支持
+* concise    :drill:
+{kən'saɪs}
+** Answer
+- adj. 简明的，简洁的
+
+- concise :: 简明的, 孔西斯, 简洁
+- Concise Lover :: 简约情人
+- concise dictionary :: 简明词典, 简明字典
+* interoperable    :drill:
+{ɪntər'ɒp(ə)rəb(ə)l}
+** Answer
+- adj. 彼此协作的；能共同操作的；能共同使用的
+
+- interoperable :: 彼此协作的, 互操作性, 互操作
+- interoperable systems :: 互通性系统
+- interoperable information :: 信息互操作
+* positive    :drill:
+{ˈpɒzətɪv}
+** Answer
+- n. 正数；[摄] 正片
+- adj. 积极的；[数] 正的，[医][化学] 阳性的；确定的，肯定的；实际的，真实的；绝对的
+
+- positive :: 积极的, 阳, 正面
+- Positive psychology :: 积极心理学, 积极心理学, 正向心理学
+- positive feedback :: 正反馈, 正回馈, 正回输
+* satisfaction    :drill:
+{sætɪs'fækʃ(ə)n}
+** Answer
+- n. 满意，满足；赔偿；乐事；赎罪
+
+- Satisfaction :: 满意, 满足, 满意度
+- Job satisfaction :: 工作满意度, 工作的满意感, 工作满足
+- Life Satisfaction :: 生活满意度, 生活满意感, 生活满意

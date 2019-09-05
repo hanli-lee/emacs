@@ -1,7 +1,9 @@
 (use-package rust-mode
   :init (progn
           (add-hook 'rust-mode-hook 'racer-mode)
-          (add-hook 'rust-mode-hook 'glasses-mode))
+          ;;单词大小写之间用下滑下分隔
+          (add-hook 'rust-mode-hook 'glasses-mode)
+          )
   :config (progn
             (defadvice rust-mode-indent-line (around sw/rust-ignore-indent-error activate)
               (ignore-errors
