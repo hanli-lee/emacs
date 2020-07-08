@@ -14,6 +14,7 @@
   (directory-files (concat sw/user-init-d "packages") t "^[^.]")))
 (load (concat sw/user-init-d "packages/packages.el"))
 
+;;(require 'cl-generic)
 (require 'use-package)
 (mapc
  (lambda(d) (load d))
@@ -24,8 +25,8 @@
 (autoload 'idle-highlight-mode "idle-highlight-mode" "highlight the word the point is on" t)
 (add-hook 'find-file-hook 'idle-highlight-mode)
 ;;(set-frame-font "-DAMA-Ubuntu-light-normal-normal-*-18-*-*-*-*-0-iso10646-1")
-(set-frame-font "-DAMA-Ubuntu Mono-normal-normal-normal-*-20-*-*-*-m-0-iso10646-1")
-
+;;(set-frame-font "-DAMA-Ubuntu Mono-normal-normal-normal-*-20-*-*-*-m-0-iso10646-1")
+(set-frame-font "-*-Andale Mono-normal-normal-normal-*-18-*-*-*-m-0-iso10646-1")
 (require 'eopengrok)
 
 (define-key global-map (kbd "C-c s i") 'eopengrok-create-index)

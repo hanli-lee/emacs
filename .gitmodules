@@ -253,3 +253,6 @@
 [submodule "packages/clj-opengrok"]
 	path = packages/clj-opengrok
 	url = https://github.com/zhangsan-torvalds/clj-opengrok.git
+[submodule "packages/transient"]
+	path = packages/transient
+	url = https://github.com/magit/transient.git

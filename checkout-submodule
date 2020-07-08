@@ -1,0 +1,30 @@
+#!/bin/bash
+
+module_file=`dirname $0`"/.gitmodules"
+
+echo -e $module_file
+
+
+url=""
+path=""
+declare -i count
+count=0
+while read line
+do
+#    echo -e $line
+    if [[ $line =~ "submodule" ]]; then
+        path=${line#*\"}
+        path=${path%\"*}
+        count=1
+    fi
+
+    if [[ $path =~ ".el" ]]; then
+        echo -e $path
+    else
+	cd $path
+#	git reset --hard
+	cd ../..
+    fi
+
+done < $module_file
+

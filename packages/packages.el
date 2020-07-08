@@ -1,3 +1,4 @@
+(add-to-list 'load-path (concat sw/user-init-d "/packages/transient/lisp"))
 (add-to-list 'load-path (concat sw/user-init-d "/packages/magit/lisp"))
 (add-to-list 'load-path (concat sw/user-init-d "/packages/mu/mu4e"))
 ;;(add-to-list 'load-path (concat sw/user-init-d "/packages/org-mode/lisp"))

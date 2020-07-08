@@ -179,8 +179,10 @@ the command."
   "*If not nil, `electric-graphviz-dot-terminate-line' is executed in a line is terminated."
   :type 'boolean
   :group 'graphviz)
-
-(defcustom graphviz-dot-indent-width default-tab-width
+;; use default-tab-width before Emacs26
+;; (defcustom graphviz-dot-indent-width default-tab-width
+;; use tab-width instead since Emacs26
+(defcustom graphviz-dot-indent-width tab-width
   "*Indentation width in Graphviz Dot mode buffers."
   :type 'integer
   :group 'graphviz)
