@@ -253,3 +253,6 @@
 [submodule "theme/dracula"]
 	path = theme/dracula
 	url = https://github.com/dracula/emacs.git
+[submodule "packages/exec-path-from-shell"]
+	path = packages/exec-path-from-shell
+	url = https://github.com/purcell/exec-path-from-shell.git

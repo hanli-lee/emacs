@@ -6,3 +6,4 @@
 (add-to-list 'load-path (concat sw/user-init-d "/packages/emacs-ipython-notebook/lisp"))
 (add-to-list 'load-path (concat sw/user-init-d "/packages/idle-highlight-mode/"))
 (add-to-list 'load-path (concat sw/user-init-d "/packages/edit-at-point.el/"))
+(add-to-list 'load-path (concat sw/user-init-d "/packages/exec-path-from-shell/"))

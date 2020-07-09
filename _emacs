@@ -38,3 +38,5 @@
 (define-key global-map (kbd "C-c s h") 'eopengrok-find-history)
 (define-key global-map (kbd "C-c s c") 'eopengrok-find-custom)
 (define-key global-map (kbd "C-c s b") 'eopengrok-resume)
+(require 'exec-path-from-shell)
+(exec-path-from-shell-initialize)
