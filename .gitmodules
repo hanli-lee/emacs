@@ -73,9 +73,6 @@
 [submodule "packages/cal-china-x"]
 	path = packages/cal-china-x
 	url = https://github.com/xwl/cal-china-x.git
-[submodule "packages/org-mode"]
-	path = packages/org-mode
-	url = git://orgmode.org/org-mode.git
 [submodule "packages/racket-mode"]
 	path = packages/racket-mode
 	url = https://github.com/greghendershott/racket-mode.git
@@ -109,9 +106,6 @@
 [submodule "theme/zenburn"]
 	path = theme/zenburn
 	url = https://github.com/bbatsov/zenburn-emacs.git
-[submodule "theme/dracula-theme"]
-	path = theme/dracula-theme
-	url = https://github.com/dracula/dracula-theme.git
 [submodule "packages/org-tree-slide"]
 	path = packages/org-tree-slide
 	url = https://github.com/takaxp/org-tree-slide.git
@@ -256,3 +250,6 @@
 [submodule "packages/transient"]
 	path = packages/transient
 	url = https://github.com/magit/transient.git
+[submodule "theme/dracula"]
+	path = theme/dracula
+	url = https://github.com/dracula/emacs.git

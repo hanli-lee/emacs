@@ -13,7 +13,7 @@
 ;; (load-theme 'zenburn t)
 
 ;; --- drachla
-(add-to-list 'custom-theme-load-path (concat sw/user-init-d "theme/dracula-theme/emacs"))
+(add-to-list 'custom-theme-load-path (concat sw/user-init-d "theme/dracula"))
 (load-theme 'dracula t)
 
 ;; |中英文应该能够对齐|
