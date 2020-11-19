@@ -40,3 +40,18 @@
 (define-key global-map (kbd "C-c s b") 'eopengrok-resume)
 (require 'exec-path-from-shell)
 (exec-path-from-shell-initialize)
+
+(autoload 'groovy-mode "groovy-mode" "Mode for editing groovy source files" t)
+(setq auto-mode-alist
+      (append '(("\\.groovy\\'" . groovy-mode)) auto-mode-alist))
+(setq interpreter-mode-alist (append '(("groovy" . groovy-mode))
+                                     interpreter-mode-alist))
+
+(autoload 'groovy-mode "groovy-mode" "Groovy mode." t)
+(autoload 'run-groovy "inf-groovy" "Run an inferior Groovy process")
+(autoload 'inf-groovy-keys "inf-groovy" "Set local key defs for inf-groovy in groovy-mode")
+
+(add-hook 'groovy-mode-hook
+          '(lambda ()
+             (inf-groovy-keys)
+             ))
